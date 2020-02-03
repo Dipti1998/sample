@@ -1,2 +1,4 @@
 file 1.txt
+ok
 good morning
+
